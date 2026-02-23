@@ -17,6 +17,6 @@ function validateInput(){
             errorMessage.style.visibility = "hidden";
         },500);
     } else {
-        alert("Valid Input");
+        alert("Tum Bade bakchod ho");
     }
 }
